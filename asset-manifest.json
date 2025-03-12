@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CardResponsive/static/css/main.d5e16958.css",
+    "main.js": "/CardResponsive/static/js/main.e46631c9.js",
+    "index.html": "/CardResponsive/index.html",
+    "main.d5e16958.css.map": "/CardResponsive/static/css/main.d5e16958.css.map",
+    "main.e46631c9.js.map": "/CardResponsive/static/js/main.e46631c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5e16958.css",
+    "static/js/main.e46631c9.js"
+  ]
+}
